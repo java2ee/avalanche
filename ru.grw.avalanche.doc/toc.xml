@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+
+<toc label="Framework Avalanche">
+	<topic label="Учебный курс"  href="html/tutorial.html"> 
+		<topic href="html/tutorial/first.html" label="Первое приложение">
+     <topic href="html/tutorial/firstFunction.html" label="Реализация функции">
+     </topic>
+     <topic href="html/tutorial/firstAdapter.html" label="Реализация адаптера">
+     </topic>
+     <topic href="html/tutorial/firstApplication.html" label="Реализация приложения">
+     </topic>
+     <topic href="html/tutorial/firstJSP.html" label="Реализация JSP страницы">
+     </topic>
+     <topic href="html/tutorial/firstConfiguration.html" label="Конфигурипрование приложения">
+     </topic>
+     <topic href="html/tutorial/firstRun.html" label="Пример выполнения">
+     </topic>
+  </topic>
+  <topic label="Вызов удаленной функции">
+     <topic label="Вызов удаленной функции, протокол RMI">
+        <topic label="Конфигурирование приложения">
+        </topic>
+        <topic label="Пример выполнения">
+        </topic>
+     </topic>
+     <topic label="Вызов удаленной функции, протокол HTTP">
+        <topic label="Конфигурирование приложения">
+        </topic>
+        <topic label="Пример выполнения">
+        </topic>
+     </topic>
+  </topic> 
+	</topic>
+</toc>
