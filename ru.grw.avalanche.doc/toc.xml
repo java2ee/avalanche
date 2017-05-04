@@ -17,17 +17,21 @@
      <topic href="html/tutorial/firstRun.html" label="Пример выполнения">
      </topic>
   </topic>
-  <topic label="Вызов удаленной функции">
-     <topic label="Вызов удаленной функции, протокол RMI">
-        <topic label="Конфигурирование приложения">
+  <topic href="html/tutorial/remote.html" label="Вызов удаленной функции">
+     <topic href="html/tutorial/remoteRMI.html" label="Вызов удаленной функции (RMI)">
+        <topic href="html/tutorial/remoteRMIConfiguration.html" label="Конфигурирование удаленного приложения (RMI)">
         </topic>
-        <topic label="Пример выполнения">
+        <topic href="html/tutorial/localRMIConfiguration.html" label="Конфигурирование локального приложения (RMI)">
+        </topic>
+        <topic href="html/tutorial/remoteRMIRun.html" label="Пример выполнения (RMI)">
         </topic>
      </topic>
-     <topic label="Вызов удаленной функции, протокол HTTP">
-        <topic label="Конфигурирование приложения">
+     <topic href="html/tutorial/remoteHTTP.html" label="Вызов удаленной функции (HTTP)">
+        <topic href="html/tutorial/remoteHTTPConfiguration.html" label="Конфигурирование удаленного приложения (HTTP)">
         </topic>
-        <topic label="Пример выполнения">
+        <topic href="html/tutorial/localHTTPConfiguration.html" label="Конфигурирование локального приложения (HTTP)">
+        </topic>
+        <topic href="html/tutorial/remoteHTTPRun.html" label="Пример выполнения (HTTP)">
         </topic>
      </topic>
   </topic> 
