@@ -34,6 +34,12 @@
         <topic href="html/tutorial/remoteHTTPRun.html" label="Пример выполнения (HTTP)">
         </topic>
      </topic>
+  </topic>
+  <topic href="html/tutorial/cascade.html" label="Каскададное включение функций">
+     <topic href="html/tutorial/balance.html" label="Балансировщик нагрузки">
+        <topic href="html/tutorial/cascadeFunction.html" label="Реализация каскадной функции">
+        </topic>
+     </topic>
   </topic> 
 	</topic>
 </toc>
