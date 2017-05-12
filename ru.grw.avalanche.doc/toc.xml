@@ -35,9 +35,13 @@
         </topic>
      </topic>
   </topic>
-  <topic href="html/tutorial/cascade.html" label="Каскададное включение функций">
+  <topic href="html/tutorial/cascade.html" label="Каскадное включение функций">
      <topic href="html/tutorial/balance.html" label="Балансировщик нагрузки">
-        <topic href="html/tutorial/cascadeFunction.html" label="Реализация каскадной функции">
+        <topic href="html/tutorial/cascadeFunction.html" label="Реализация функции">
+        </topic>
+     </topic>
+     <topic href="html/tutorial/evolution.html" label="Эвалюционная смена программного обеспечения">
+        <topic href="html/tutorial/evolutionFunction.html" label="Реализация функции">
         </topic>
      </topic>
   </topic> 
